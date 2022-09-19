@@ -32,6 +32,12 @@
             <version>0.0.1-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.yue</groupId>
+            <artifactId>study-redis</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
     <properties>
